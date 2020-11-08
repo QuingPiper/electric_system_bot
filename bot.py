@@ -1,7 +1,8 @@
 
 
 
-TOKEN = 'NzcwOTE3NzUwOTE0NDE2NjU0.X5kjGg.H5qx4DdqzpK6LKuasQ4shP1qgeU'
+TOKEN = ''NzcwOTE3NzUwOTE0NDE2NjU0.X5kjGg.j63yyiVpyF8GBFWhkqQ5c0GyEEo
+
 
 import requests
 import discord
